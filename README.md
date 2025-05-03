@@ -1,4 +1,4 @@
-# 🚲 Cyclist-Bike-Share-Analysis-Project
+# 🚲 Cyclistic-Bike-Share-Analysis-Project
 
 
 ## 📌 Objective
